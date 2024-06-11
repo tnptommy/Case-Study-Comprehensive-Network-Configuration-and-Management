@@ -1,6 +1,7 @@
 # Case Study: Network Design and Implementation for Routing and Switching Essentials (31277)
 
 **Author**: Tommy Huynh
+
 **October 2023**
 
 ## Introduction
